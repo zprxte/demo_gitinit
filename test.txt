@@ -15,5 +15,5 @@
 │    [██████████████████████████████████] 100%             │
 │                                                          │
 │  > READY FOR COMMANDS...                                 │
-|  > UPDATE ON FEATUREA BRANCH                             │
+|  > Update on featureB branch                             │
 └──────────────────────────────────────────────────────────┘
